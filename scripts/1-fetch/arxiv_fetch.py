@@ -51,7 +51,7 @@ HEADER_AUTHOR = ["TOOL_IDENTIFIER", "AUTHOR_COUNT", "COUNT"]
 
 QUARTER = os.path.basename(PATHS["data_quarter"])
 
-# Log the start of the script execution
+# Log the start of the script execution here
 LOGGER.info("Script execution started.")
 
 
